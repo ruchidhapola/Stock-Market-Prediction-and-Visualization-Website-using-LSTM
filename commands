@@ -1,0 +1,7 @@
+
+
+cd "C:\Users\Ruchi\OneDrive\Desktop\STOCK PREDICTION"
+venv\Scripts\activate
+pip install streamlit yfinance tensorflow scikit-learn matplotlib seaborn pandas numpy
+python -m pip install tensorflow
+python -m streamlit run stock_app.py
